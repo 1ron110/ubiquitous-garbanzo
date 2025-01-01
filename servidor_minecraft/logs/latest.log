@@ -98,3 +98,8 @@
 [01Jan2025 17:26:47.615] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 25793 ms
 [01Jan2025 17:26:47.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (32.140s)! For help, type "help"
 [01Jan2025 17:26:47.631] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Jan2025 17:44:33.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1ron_110[/127.220.242.210:48231] logged in with entity id 246 at (-632.5, 69.0, 86.5)
+[01Jan2025 17:44:33.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1ron_110 joined the game
+[01Jan2025 17:45:34.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1ron_110 has made the advancement [Monster Hunter]
+[01Jan2025 17:45:40.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1ron_110 lost connection: Disconnected
+[01Jan2025 17:45:40.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1ron_110 left the game
